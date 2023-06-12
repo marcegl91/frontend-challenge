@@ -7,7 +7,8 @@
 ```console
 cd api
 npm install
-npm run dev
+npm run build
+npm start
 ```
 
 La API corre en el puerto `8000`
