@@ -1,0 +1,39 @@
+// @import '~wolox-equalizer/equalizer';
+
+@import 'https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap';
+@import 'layout';
+@import 'variables/colors';
+
+* {
+  font-family: Roboto, sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0
+}
+
+a {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+label,
+input,
+a,
+button,
+select,
+textarea {
+  color: $black;
+}

@@ -1,0 +1,17 @@
+@import '../../../scss/variables/colors';
+@import '../../../scss/layout';
+
+.navbar {
+  background-color: $turbo;
+}
+
+.elements {
+  composes: row middle center;
+  height: 70px;
+}
+
+.form {
+  composes: row middle;
+  height: 40px;
+  width: 67.5%;
+}

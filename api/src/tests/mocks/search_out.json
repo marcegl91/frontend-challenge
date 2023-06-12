@@ -1,0 +1,662 @@
+{
+  "author": {
+    "name": "Marcelo",
+    "lastname": "Guzman"
+  },
+  "categories": [
+    "Celulares y Teléfonos",
+    "Celulares y Smartphones"
+  ],
+  "items": [
+    {
+      "id": "MLA1114219755",
+      "title": "Apple iPhone 13 (128 Gb) - Azul",
+      "price": {
+        "currency": "ARS",
+        "amount": 488949,
+        "decimals": 23
+      },
+      "picture": "http://http2.mlstatic.com/D_619667-MLA47781882790_102021-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA825206917",
+      "title": "Apple iPhone 11 (64 Gb) - Negro",
+      "price": {
+        "currency": "ARS",
+        "amount": 315840,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_656548-MLA46114829749_052021-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1371553095",
+      "title": "Apple iPhone 11 (128 Gb) - Negro",
+      "price": {
+        "currency": "ARS",
+        "amount": 337592,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_656548-MLA46114829749_052021-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Misiones"
+    },
+    {
+      "id": "MLA1268643279",
+      "title": "Apple iPhone 14 Pro Max (256 Gb) - Morado Oscuro",
+      "price": {
+        "currency": "ARS",
+        "amount": 846999,
+        "decimals": 23
+      },
+      "picture": "http://http2.mlstatic.com/D_605126-MLM51559383638_092022-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1392462920",
+      "title": "Apple iPhone 13 Pro (512 Gb) - Plata",
+      "price": {
+        "currency": "ARS",
+        "amount": 832999,
+        "decimals": 30
+      },
+      "picture": "http://http2.mlstatic.com/D_640945-MLA47778929198_102021-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1430266014",
+      "title": "Apple iPhone 14 (128 Gb) - Blanco Estelar",
+      "price": {
+        "currency": "ARS",
+        "amount": 545000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_918579-MLM51559384401_092022-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Buenos Aires"
+    },
+    {
+      "id": "MLA1269290898",
+      "title": "Apple iPhone 14 Pro Max (128 Gb) - Color Oro",
+      "price": {
+        "currency": "ARS",
+        "amount": 769999,
+        "decimals": 23
+      },
+      "picture": "http://http2.mlstatic.com/D_873385-MLM51559384419_092022-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1357635949",
+      "title": "Apple iPhone SE (3ª Generación, 64 Gb) - Blanco Estelar",
+      "price": {
+        "currency": "ARS",
+        "amount": 283899,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_869437-MLA52132629318_102022-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1358334173",
+      "title": "Apple iPhone 14 Pro (128 Gb) - Negro Espacial",
+      "price": {
+        "currency": "ARS",
+        "amount": 711499,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_913741-MLM51559386469_092022-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1284788842",
+      "title": "Apple iPhone 14 Pro (256 Gb) - Color Oro",
+      "price": {
+        "currency": "ARS",
+        "amount": 769999,
+        "decimals": 23
+      },
+      "picture": "http://http2.mlstatic.com/D_750485-MLM51559388158_092022-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1199299194",
+      "title": "Apple iPhone 13 (256 Gb) - Blanco Estelar",
+      "price": {
+        "currency": "ARS",
+        "amount": 575246,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_922588-MLA47781634791_102021-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1126816712",
+      "title": "Apple iPhone 13 Mini (128 Gb) - (product)red",
+      "price": {
+        "currency": "ARS",
+        "amount": 472276,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_995594-MLA47782477570_102021-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1363420859",
+      "title": "Apple iPhone 14 (256 Gb) - Medianoche",
+      "price": {
+        "currency": "ARS",
+        "amount": 631999,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_881016-MLM51559383738_092022-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1390314240",
+      "title": "Apple iPhone 14 Pro Max (512 Gb) - Morado Oscuro",
+      "price": {
+        "currency": "ARS",
+        "amount": 1027999,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_605126-MLM51559383638_092022-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1396520868",
+      "title": "Apple iPhone SE (3ª Generación, 128 Gb) - Azul Medianoche",
+      "price": {
+        "currency": "ARS",
+        "amount": 353000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_674352-MLA52132197310_102022-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1116737109",
+      "title": "Apple iPhone 12 (64 Gb) - Negro",
+      "price": {
+        "currency": "ARS",
+        "amount": 431000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_740855-MLA45719698644_042021-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA920235889",
+      "title": " iPhone 8 64 Gb  Oro",
+      "price": {
+        "currency": "ARS",
+        "amount": 199999,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_872444-MLA31003091311_062019-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Buenos Aires"
+    },
+    {
+      "id": "MLA1365355232",
+      "title": "Apple iPhone 13 Mini (256 Gb) - Blanco Estelar",
+      "price": {
+        "currency": "ARS",
+        "amount": 549503,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_932957-MLA47782545553_102021-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1271799742",
+      "title": "Apple iPhone 12 Mini (128 Gb) - Negro",
+      "price": {
+        "currency": "ARS",
+        "amount": 479990,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_708567-MLA46039046779_052021-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1389871544",
+      "title": "Apple iPhone 12 (256 Gb) - Azul",
+      "price": {
+        "currency": "ARS",
+        "amount": 549999,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_783252-MLA45720346023_042021-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1267685319",
+      "title": "Apple iPhone 12 Pro Max (512 Gb) - Plata",
+      "price": {
+        "currency": "ARS",
+        "amount": 829990,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_961977-MLA46088620360_052021-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1365120945",
+      "title": "Apple iPhone 14 Plus (128 Gb) - (product)red",
+      "price": {
+        "currency": "ARS",
+        "amount": 660999,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_762161-MLM51559383657_092022-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1429247804",
+      "title": "Apple iPhone 14 Pro (512 Gb) - Color Plata",
+      "price": {
+        "currency": "ARS",
+        "amount": 999999,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_707630-MLM51559386375_092022-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Buenos Aires"
+    },
+    {
+      "id": "MLA1363043981",
+      "title": "Apple iPhone 12 (128 Gb) - Morado",
+      "price": {
+        "currency": "ARS",
+        "amount": 450000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_851960-MLA46104962261_052021-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Santiago del Estero"
+    },
+    {
+      "id": "MLA1363433883",
+      "title": "Apple iPhone 14 Pro Max (1 Tb) - Color Plata",
+      "price": {
+        "currency": "ARS",
+        "amount": 1148999,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_770607-MLM51559385328_092022-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1345712301",
+      "title": "Apple iPhone 14 (512 Gb) - Medianoche",
+      "price": {
+        "currency": "ARS",
+        "amount": 764999,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_881016-MLM51559383738_092022-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1368575447",
+      "title": "Apple iPhone XS 64 Gb  Gris Espacial Cable, Cargador",
+      "price": {
+        "currency": "ARS",
+        "amount": 220000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_831129-MLA54989453676_052023-O.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Buenos Aires"
+    },
+    {
+      "id": "MLA1365132265",
+      "title": "Apple iPhone 14 Pro (1 Tb) - Color Oro",
+      "price": {
+        "currency": "ARS",
+        "amount": 1079999,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_750485-MLM51559388158_092022-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1258826863",
+      "title": "Apple iPhone 13 Pro (256 Gb) - Verde Alpino",
+      "price": {
+        "currency": "ARS",
+        "amount": 789999,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_905411-MLA52130554409_102022-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1381072668",
+      "title": "Apple iPhone 13 (512 Gb) - Azul",
+      "price": {
+        "currency": "ARS",
+        "amount": 679697,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_734138-MLA47781864533_102021-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Santa Fe"
+    },
+    {
+      "id": "MLA1368707247",
+      "title": "Apple iPhone 12 Mini (64 Gb) - Negro",
+      "price": {
+        "currency": "ARS",
+        "amount": 448000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_705058-MLA46040947807_052021-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1399034296",
+      "title": "iPhone 6s 64 Gb Gris Espacial Reacondicionado Como Nuevo",
+      "price": {
+        "currency": "ARS",
+        "amount": 52000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_865297-MLA54954404977_042023-O.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Mendoza"
+    },
+    {
+      "id": "MLA1366765067",
+      "title": "iPhone X 256gb En Caja (reacondicionado)",
+      "price": {
+        "currency": "ARS",
+        "amount": 250000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_609493-MLA54962148347_042023-O.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Misiones"
+    },
+    {
+      "id": "MLA1368935823",
+      "title": "iPhone 11 Pro 64 Gb Gris Espacial",
+      "price": {
+        "currency": "ARS",
+        "amount": 445000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_729868-MLA32647708573_102019-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1372929279",
+      "title": " iPhone XS 64 Gb  Gris Espacial Bateria 100%",
+      "price": {
+        "currency": "ARS",
+        "amount": 208050,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_912926-MLA50742293198_072022-O.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1120668954",
+      "title": "Apple iPhone 12 (128 Gb) - Negro Sellado Garantia",
+      "price": {
+        "currency": "ARS",
+        "amount": 489846,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_743195-MLA45719932493_042021-O.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1128464619",
+      "title": "Apple iPhone 11 (128 Gb) ",
+      "price": {
+        "currency": "ARS",
+        "amount": 160000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_921455-MLA49407611981_032022-O.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Buenos Aires"
+    },
+    {
+      "id": "MLA1137993099",
+      "title": "iPhone 8 Plus 64gb + Cargador + Bateria 100%",
+      "price": {
+        "currency": "ARS",
+        "amount": 175000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_904470-MLA54977750556_042023-O.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Formosa"
+    },
+    {
+      "id": "MLA1199804912",
+      "title": "Apple iPhone 14 128gb Midnight Nuevo Sellado Garantia",
+      "price": {
+        "currency": "ARS",
+        "amount": 556929,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_626911-MLA52003791073_102022-O.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1122715850",
+      "title": "Apple iPhone 13 (128 Gb) - Blanco Estelar Sellado",
+      "price": {
+        "currency": "ARS",
+        "amount": 489000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_736168-MLA47781742030_102021-O.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1188634240",
+      "title": "iPhone 14 Pro 128 Gb Caja Sellada 1 Año De Garantia Apple",
+      "price": {
+        "currency": "ARS",
+        "amount": 779990,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_888147-MLA51874377731_102022-O.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1121251779",
+      "title": "Apple iPhone 13 (128 Gb) - Azul Medianoche Sellado ",
+      "price": {
+        "currency": "ARS",
+        "amount": 495000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_973345-MLA47781591382_102021-O.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1372989339",
+      "title": "Apple iPhone 14 Pro Max 256gb",
+      "price": {
+        "currency": "ARS",
+        "amount": 800000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_782867-MLA69912981355_062023-O.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Misiones"
+    },
+    {
+      "id": "MLA1132441102",
+      "title": "Apple iPhone 12 64gb-incluye Cargador-todos Los Colores-gtia",
+      "price": {
+        "currency": "ARS",
+        "amount": 499990,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_864724-MLA46104529451_052021-O.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1132458383",
+      "title": "Apple iPhone 12 128gb-incluye Cargador-todos Los Colores-gti",
+      "price": {
+        "currency": "ARS",
+        "amount": 549990,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_784571-MLA45729987876_042021-O.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1425737332",
+      "title": "Apple iPhone 8 Plus Rose Gold 64gb",
+      "price": {
+        "currency": "ARS",
+        "amount": 115000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_790167-MLA69689903579_052023-O.jpg",
+      "condition": "used",
+      "free_shipping": false,
+      "state": "Buenos Aires"
+    },
+    {
+      "id": "MLA1421382546",
+      "title": "iPhone 7 Plus 128gb Plata Funda Vidrio Caja Cable Cargador",
+      "price": {
+        "currency": "ARS",
+        "amount": 162000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_918598-MLA69532454931_052023-O.jpg",
+      "condition": "used",
+      "free_shipping": true,
+      "state": "Capital Federal"
+    },
+    {
+      "id": "MLA1372283623",
+      "title": "iPhone 7 Rosa 32g",
+      "price": {
+        "currency": "ARS",
+        "amount": 80000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_856416-MLA69823752633_062023-O.jpg",
+      "condition": "used",
+      "free_shipping": false,
+      "state": "Buenos Aires"
+    },
+    {
+      "id": "MLA1424746956",
+      "title": "iPhone 6 S Plus 64gb ",
+      "price": {
+        "currency": "ARS",
+        "amount": 45000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_987447-MLA69197917198_052023-O.jpg",
+      "condition": "used",
+      "free_shipping": false,
+      "state": "Buenos Aires"
+    },
+    {
+      "id": "MLA1370172517",
+      "title": "iPhone SE // Bateria 94% // Casi Sin Usar",
+      "price": {
+        "currency": "ARS",
+        "amount": 180000,
+        "decimals": 0
+      },
+      "picture": "http://http2.mlstatic.com/D_803382-MLA54336794921_032023-O.jpg",
+      "condition": "used",
+      "free_shipping": false,
+      "state": "Capital Federal"
+    }
+  ]
+}

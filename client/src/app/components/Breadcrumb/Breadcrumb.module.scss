@@ -1,0 +1,18 @@
+@import '../../../scss/variables/colors';
+@import '../../../scss/layout';
+
+.container {
+  margin-bottom: 16px;
+  margin-left: 270px;
+  margin-top: 16px;
+}
+
+.category,
+.greater {
+  color: $dusty-gray;
+  font-size: 14px;
+}
+
+.category:last-of-type {
+  font-weight: bold;
+}

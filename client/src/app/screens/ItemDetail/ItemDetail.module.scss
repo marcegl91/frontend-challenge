@@ -1,0 +1,8 @@
+@import '../../../scss/variables/colors';
+@import '../../../scss/layout';
+
+.container {
+  background-color: $gallery;
+  composes: column middle;
+  padding-bottom: 100px;
+}

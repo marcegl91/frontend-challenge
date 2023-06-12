@@ -1,0 +1,74 @@
+@import '../../../scss/variables/colors';
+@import '../../../scss/layout';
+
+.container {
+  background-color: $white;
+  border-radius: 4px;
+  composes: row;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 32px;
+  width: 69%;
+}
+
+.content {
+  composes: column start;
+  margin-right: auto;
+  width: 70%;
+}
+
+.picture {
+  border-radius: 4px;
+  height: 680px;
+  width: 680px;
+}
+
+.descprod {
+  color: $mine-shaft;
+  font-size: 28px;
+  margin-bottom: 32px;
+}
+
+.description {
+  color: $dusty-gray;
+  font-size: 16px;
+}
+
+.detail {
+  composes: column;
+  width: 30%;
+}
+
+.subtitle,
+.title,
+.price {
+  color: $mine-shaft;
+}
+
+.subtitle {
+  font-size: 14px;
+  margin-bottom: 16px;
+}
+
+.title {
+  font-size: 24px;
+  margin-bottom: 32px;
+}
+
+.price {
+  font-size: 46px;
+  margin-bottom: 32px;
+}
+
+.decimals {
+  font-size: 24px;
+}
+
+.button {
+  background-color: $dodger-blue;
+  border: none;
+  border-radius: 4px;
+  color: $white;
+  font-size: 18px;
+  padding: 15px 0;
+}
